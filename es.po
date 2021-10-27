@@ -1,0 +1,17 @@
+# Spanish translation of Sound Concepts Application
+# Copyright 2021
+
+#: controllersilling_controller.php
+#: /views/users/red_olive_signup.ctp
+msgid "Billing Information"
+msgstr "Información de facturación"
+
+#: controllersilling_controller.php
+#: /controllers/products_controller.php
+msgid "SITE_TITLE subscription cancelled"
+msgstr "Suscripción a SITE_TITLE cancelada"
+
+#: viewscontactscsv_import.ctp
+#: /views/contacts/contact_import.ctp
+msgid "Allowed field names"
+msgstr "Nombres de campos permitidos"

@@ -14,4 +14,4 @@ msgid "Allowed field names"
 msgstr ""
 
 msgid "Cat"
-msgstr ""
+msgstr "Cat"

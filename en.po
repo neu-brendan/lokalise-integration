@@ -15,3 +15,6 @@ msgstr ""
 
 msgid "Cat"
 msgstr "Cat"
+
+msgid "Dog"
+msgstr "Dog"

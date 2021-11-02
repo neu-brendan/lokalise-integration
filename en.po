@@ -1,0 +1,17 @@
+#: controllersilling_controller.php
+#: /views/users/red_olive_signup.ctp
+msgid "Billing Information"
+msgstr ""
+
+#: controllersilling_controller.php
+#: /controllers/products_controller.php
+msgid "SITE_TITLE subscription cancelled"
+msgstr ""
+
+#: viewscontactscsv_import.ctp
+#: /views/contacts/contact_import.ctp
+msgid "Allowed field names"
+msgstr ""
+
+msgid "Cat"
+msgstr ""

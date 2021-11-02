@@ -21,3 +21,7 @@ msgstr "Dog"
 
 msgid "Hello"
 msgstr "Hello"
+
+
+msgid "Bird"
+msgstr "Bird"
